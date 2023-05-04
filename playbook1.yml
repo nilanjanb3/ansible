@@ -1,0 +1,11 @@
+- name: Demo
+  hosts: web1
+  roles:
+    - mysql
+
+---
+- name: Demo
+  hosts: web1
+  tasks:
+    - name: Sample
+      command: 'echo Hello World'
