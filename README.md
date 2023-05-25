@@ -13,7 +13,7 @@ Here are some good reads for Ansible
     * [03-Ansible Modules](https://www.whizlabs.com/blog/ansible-modules/)
     * [04-Ansible Variables](https://docs.ansible.com/archive/ansible/2.4/playbooks_variables.html)
 * 03-Conditional Loop and Roles
-    * [01-](https://www.educba.com/ansible-when/)
+    * [01-Use of When](https://www.educba.com/ansible-when/)
     * [02-Special variables](https://docs.ansible.com/ansible/latest/reference_appendices/special_variables.html)
     * [03-Register in Ansible](https://www.educba.com/ansible-register/)
     * [04-Directives in Ansible](https://docs.ansible.com/ansible/latest/reference_appendices/playbooks_keywords.html)
